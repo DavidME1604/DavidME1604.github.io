@@ -1,14 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - DavidME1604
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - DavidME1604/MetodosNumericos2024B_MoralesDavid
+  - DavidME1604/poliretos-coderex
+  - Vladimirjon/SIA

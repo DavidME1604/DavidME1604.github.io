@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /habilities/
-title: Habilities
+title: Habilities 🛠️
 description: Habilidades con las que cuento hasta el momento.
 nav: true
 nav_order: 2

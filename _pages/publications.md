@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /habilities/
 title: Publications
 description: Habilidades con las que cuento hasta el momento.
 nav: true

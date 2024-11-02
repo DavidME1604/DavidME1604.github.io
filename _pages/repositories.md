@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
+title: Repositories 📂
 description: Repositorios más importantes, hasta el momento, que he realizado gracias a mis estudios.
 nav: true
 nav_order: 4

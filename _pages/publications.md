@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /habilities/
-title: Publications
+title: Habilities
 description: Habilidades con las que cuento hasta el momento.
 nav: true
 nav_order: 2
@@ -55,4 +55,4 @@ A continuación, presento mis habilidades en programación y herramientas de des
 
 ---
 
-🚀 Estoy comprometida en mejorar constantemente estas habilidades, especialmente en aquellas donde tengo un nivel básico o intermedio, para consolidar mi perfil en Ciencias de la Computación.
+🚀 Estoy comprometido en mejorar constantemente estas habilidades, especialmente en aquellas donde tengo un nivel básico o intermedio, para consolidar mi perfil en Ciencias de la Computación.
